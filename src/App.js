@@ -16,7 +16,7 @@ function App() {
         </p>
 
         <button type="button">Click</button>
-        <button>Hello</button>
+        <button type="button">Hello</button>
 
         <a
           className="App-link"
