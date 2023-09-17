@@ -15,22 +15,16 @@ function App() {
           and save to reload.
         </p>
 
-        <button>Click</button>
+        <button type="button">Click</button>
 
-
-
-
-
-
-
-                                              <a
-                                                className="App-link"
-                                                href="https://reactjs.org"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                              >
-                                                Learn React
-                                              </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
 
       </header>
     </div>
