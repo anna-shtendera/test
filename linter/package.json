@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "npx eslint src/**/*.js --fix",
-    "prepare": "husky install"
+    "prepare": "cd .. && husky install linter/.husky"
   },
   "eslintConfig": {
     "extends": [
